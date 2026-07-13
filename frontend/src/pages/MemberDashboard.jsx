@@ -146,7 +146,7 @@ const MemberDashboard = () => {
                         <div className="mt-8 mb-4">
                             <p className="text-blue-400 text-xs font-bold tracking-widest uppercase mb-1">Welcome back</p>
                             <h2 className="text-3xl font-bold text-white mb-6 flex items-center gap-2">
-                                {profile?.username || 'theekshana'} <span className="text-2xl">👋</span>
+                                {profile?.username || 'Thasidu Sonal'} <span className="text-2xl">👋</span>
                             </h2>
                             <button 
                                 onClick={() => navigate('/member/workout-plans')}
