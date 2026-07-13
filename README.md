@@ -1,4 +1,4 @@
-SMART AI GYM MANAGEMENT SYSTEM
+### SMART AI GYM MANAGEMENT SYSTEM
 
 A full-stack gym management application that supports member, trainer, and admin workflows, plus AI-powered diet and workout recommendations.
 
